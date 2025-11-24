@@ -1,0 +1,5 @@
+{
+  "name": "Adept Play - Tournament App",
+  "description": "A mobile-first tournament web application for gamers to join and compete in various tournaments. Features user and admin panels, wallet management, and real-time tournament updates.",
+  "requestFramePermissions": []
+}
